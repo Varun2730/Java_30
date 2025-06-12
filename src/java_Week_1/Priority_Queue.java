@@ -1,4 +1,4 @@
-package java_30;
+package java_Week_1;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

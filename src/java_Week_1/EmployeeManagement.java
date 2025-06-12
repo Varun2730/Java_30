@@ -1,6 +1,6 @@
-// Employee class contains the instance variable to store employee details
+package java_Week_1;// java_30.Employee class contains the instance variable to store employee details
 // Creating a Constructor to initialize the employee details
-// Create Employee objects using the constructor
+// Create java_30.Employee objects using the constructor
 
 class Employee {
 

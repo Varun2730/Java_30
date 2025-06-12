@@ -1,4 +1,4 @@
-package java_30;
+package java_Week_1;
 
 public class time_zone {
     public static void main(String[] args) {

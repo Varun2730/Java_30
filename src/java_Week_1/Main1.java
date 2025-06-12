@@ -1,8 +1,6 @@
-package java_30;
+package java_Week_1;
 
-import java.net.StandardSocketOptions;
-
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
 
         GenericBox<Integer> intBox = new GenericBox<>(10);

@@ -1,5 +1,4 @@
-package java_30;
-import java.util.*;
+package java_Week_1;
 
 
 public class HashMap {

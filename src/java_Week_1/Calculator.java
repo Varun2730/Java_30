@@ -1,4 +1,4 @@
-package java_30;
+package java_Week_1;
 
 class Calculator {
 
