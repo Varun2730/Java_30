@@ -47,14 +47,14 @@ public class AllExceptions {
             System.out.println("Error: Invalid number format!");
         }
 
+        // 6. Catch-all exception (using Exception to catch general exceptions)
         try {
             int[] arr = {1, 2, 3};
             System.out.println(arr[5]);  // This will throw ArrayIndexOutOfBoundsException
-        } catch (pection  e) {  // Catching the general Exception class
+        } catch (Exception e) {  // Catching the general Exception class
             System.out.println("Caught an exception: " + e);
         }
 
         System.out.println("Program continues after exception handling.");
     }
 }
-

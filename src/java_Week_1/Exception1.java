@@ -1,6 +1,6 @@
 package java_Week_1;
 
-public class Exception  {
+public class Exception1 extends Throwable {
 
     public static void main(String[] args) {
 
